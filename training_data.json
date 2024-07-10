@@ -3,7 +3,7 @@
         "text": "紅色女生球鞋",
         "entities": [
             {"start": 0, "end": 2, "label": "ADJ"},
-			{"start": 2, "end": 4, "label": "ADJ"},
+	    {"start": 2, "end": 4, "label": "ADJ"},
             {"start": 4, "end": 6, "label": "NOUN"}
         ]
     },
