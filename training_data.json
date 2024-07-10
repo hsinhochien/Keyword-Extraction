@@ -1,0 +1,633 @@
+[
+	{
+        "text": "紅色女生球鞋",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+			{"start": 2, "end": 4, "label": "ADJ"},
+            {"start": 4, "end": 6, "label": "NOUN"}
+        ]
+    },
+	 {
+        "text": "牛仔褲",
+        "entities": [
+            {"start": 0, "end": 3, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "小碎花洋裝",
+        "entities": [
+            {"start": 0, "end": 3, "label": "ADJ"},
+            {"start": 3, "end": 5, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "長袖棉質睡衣",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 4, "label": "ADJ"},
+            {"start": 4, "end": 6, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "短袖睡衣",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 4, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "運動內衣",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 4, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "免洗襪",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 3, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "緊身運動褲",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 5, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "無痕內褲",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 4, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "高腰牛仔褲",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 5, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "耐磨登山鞋",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 5, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "限量版運動鞋",
+        "entities": [
+            {"start": 0, "end": 3, "label": "ADJ"},
+            {"start": 3, "end": 6, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "黑色平底鞋",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 5, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "防潑水休閒鞋",
+        "entities": [
+            {"start": 0, "end": 3, "label": "ADJ"},
+            {"start": 3, "end": 6, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "POLO衫",
+        "entities": [
+            {"start": 0, "end": 5, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "休閒套裝",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 4, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "短袖襯衫",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 4, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "排汗外套",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 4, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "牛仔外套",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 4, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "速乾泳衣",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 4, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "連身泳衣",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 4, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "黑色泳帽",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 4, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "短袖T恤",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 4, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "領帶",
+        "entities": [
+            {"start": 0, "end": 2, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "無麩質麵粉",
+        "entities": [
+            {"start": 0, "end": 3, "label": "ADJ"},
+            {"start": 3, "end": 5, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "葉黃素果凍",
+        "entities": [
+            {"start": 0, "end": 3, "label": "ADJ"},
+            {"start": 3, "end": 5, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "保健食品",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 4, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "哈密瓜牛奶",
+        "entities": [
+            {"start": 0, "end": 3, "label": "ADJ"},
+            {"start": 3, "end": 5, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "巧克力脆片",
+        "entities": [
+            {"start": 0, "end": 3, "label": "ADJ"},
+            {"start": 3, "end": 5, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "牛奶巧克力",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 5, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "黑豆漿",
+        "entities": [
+            {"start": 0, "end": 3, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "可可奶粉",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 4, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "無糖優格",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 4, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "椰子水",
+        "entities": [
+            {"start": 0, "end": 3, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "辛香料",
+        "entities": [
+            {"start": 0, "end": 3, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "美食餐券",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 4, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "超薄筆電",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 4, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "無線充電器",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 4, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "萬國轉接頭",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 5, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "16吋電視",
+        "entities": [
+            {"start": 0, "end": 3, "label": "ADJ"},
+            {"start": 3, "end": 5, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "高解析度螢幕",
+        "entities": [
+            {"start": 0, "end": 4, "label": "ADJ"},
+            {"start": 4, "end": 6, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "超高清螢幕",
+        "entities": [
+            {"start": 0, "end": 3, "label": "ADJ"},
+            {"start": 3, "end": 5, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "超高清監視器",
+        "entities": [
+            {"start": 0, "end": 3, "label": "ADJ"},
+            {"start": 3, "end": 6, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "Apple原廠充電線",
+        "entities": [
+            {"start": 0, "end": 5, "label": "ADJ"},
+            {"start": 5, "end": 7, "label": "ADJ"},
+            {"start": 7, "end": 10, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "iphone15手機殼",
+        "entities": [
+            {"start": 0, "end": 8, "label": "ADJ"},
+            {"start": 8, "end": 11, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "蘋果行動電源",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 6, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "螢幕保護貼",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 5, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "機械鍵盤",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 4, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "可調光護眼檯燈",
+        "entities": [
+            {"start": 0, "end": 3, "label": "ADJ"},
+            {"start": 3, "end": 5, "label": "ADJ"},
+            {"start": 5, "end": 7, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "夾式檯燈",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 4, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "旅行牙刷",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 4, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "純水濕紙巾",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 5, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "平面口罩",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 4, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "防風打火機",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 5, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "小米刮鬍刀",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 5, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "智能垃圾桶",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 5, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "三層衛生紙",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 5, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "涼感衛生棉",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 5, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "手提便當袋",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 5, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "真空保鮮盒",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 5, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "電動床墊",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 4, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "多功能摺疊椅",
+        "entities": [
+            {"start": 0, "end": 3, "label": "ADJ"},
+            {"start": 3, "end": 6, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "香草盆栽",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 4, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "多功能切片器",
+        "entities": [
+            {"start": 0, "end": 3, "label": "ADJ"},
+            {"start": 3, "end": 6, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "抗菌潔手露",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 5, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "香水沐浴露",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 5, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "防曬潤色粉底液",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 4, "label": "ADJ"},
+            {"start": 4, "end": 7, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "男性洗面乳",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 5, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "極細眼線",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 4, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "負離子自動捲髮棒",
+        "entities": [
+            {"start": 0, "end": 3, "label": "ADJ"},
+            {"start": 3, "end": 5, "label": "ADJ"},
+            {"start": 5, "end": 8, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "戶外帳篷",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 4, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "腳踏車頭盔",
+        "entities": [
+            {"start": 0, "end": 3, "label": "ADJ"},
+            {"start": 3, "end": 5, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "刺繡書籤",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 4, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "烹飪書籍",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 4, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "兒童書包",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 4, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "經典方格筆記本",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 4, "label": "ADJ"},
+            {"start": 4, "end": 6, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "電子禮券",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 4, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "無線吸塵器",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 5, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "喇叭鎖",
+        "entities": [
+            {"start": 0, "end": 3, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "電動工具",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 4, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "口袋型助聽器",
+        "entities": [
+            {"start": 0, "end": 3, "label": "ADJ"},
+            {"start": 3, "end": 6, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "紀念郵票",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 4, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "防水手機殼",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 5, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "多功能刀",
+        "entities": [
+            {"start": 0, "end": 3, "label": "ADJ"},
+            {"start": 3, "end": 4, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "美白面膜",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 4, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "防水化妝袋",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 5, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "抗菌洗手液",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 5, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "防水相機",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 4, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "冷光美白牙膏",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 4, "label": "ADJ"},
+            {"start": 4, "end": 6, "label": "NOUN"}
+        ]
+    },
+    {
+        "text": "快乾指甲油",
+        "entities": [
+            {"start": 0, "end": 2, "label": "ADJ"},
+            {"start": 2, "end": 5, "label": "NOUN"}
+        ]
+    }
+]
