@@ -1,5 +1,5 @@
 [
-	{
+    {
         "text": "紅色女生球鞋",
         "entities": [
             {"start": 0, "end": 2, "label": "ADJ"},
@@ -7,7 +7,7 @@
             {"start": 4, "end": 6, "label": "NOUN"}
         ]
     },
-	 {
+    {
         "text": "牛仔褲",
         "entities": [
             {"start": 0, "end": 3, "label": "NOUN"}
