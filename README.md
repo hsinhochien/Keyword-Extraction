@@ -6,7 +6,7 @@ Prerequisites: <br>
 Goal: <br>
 To identify the products that consumers truly want when searching on a shopping platform.
 ## spaCy_ner.py
-This file trains a new Chinese model from scratch. <br>
+This file trains a new Chinese spaCy model from scratch. <br>
 (Download the basic configuration file for NER from the official website first. ```base_config.cfg```)
 ## spaCy_pos_ner.py
-This file trains an existing model by disabling pipelines other than NER.
+This file trains an existing spaCy model by disabling pipelines other than NER.
